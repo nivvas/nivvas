@@ -1,2 +1,0 @@
-# nivvas.github.io
-site
