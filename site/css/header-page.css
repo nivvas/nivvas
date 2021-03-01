@@ -103,4 +103,7 @@
   .header-page__phone {
     display: none;
   }
+  .header-page__hamburger{
+    margin-left: -15px;
+  } 
 }

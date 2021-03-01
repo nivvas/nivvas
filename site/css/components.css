@@ -115,3 +115,36 @@
   bottom: -10px;
 }
 /* btn-menu end */
+
+
+/* section start */
+.section {
+  padding: 110px 0;
+}
+
+@media (max-width: 576px){
+  .section {
+    padding: 90px 0;
+  }
+}
+
+.section__title {
+  position: relative;
+  font-size: 48px;
+  text-align: center;
+  margin: 0 auto 40px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+}
+
+.section__title--accent {
+  color: #ffa650;
+
+}
+/* section end */
+
+@media (max-width: 576px){
+  .section__title {
+    font-size: 38px;
+  }
+}
