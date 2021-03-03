@@ -16,6 +16,7 @@
   letter-spacing: .02em;
   box-shadow: 0px 0px 38px 0px rgba(212, 66, 50, 0.8);
   transition: background .2s;
+  outline: none;
 }
 
 .btn:hover {
@@ -104,6 +105,7 @@
   height: 50px;
   display: inline-block;
   transition: transform .2s, opacity .2s;
+  outline: none;
 }
 
 .btn-close:hover {
